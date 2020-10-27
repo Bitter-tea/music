@@ -18,9 +18,9 @@
 
 # 效果演示
 
-![](/img/1.png)
-![](/img/2.png)
-![](/img/3.png)
+![1](https://github.com/Bitter-tea/music/blob/master/img/1.png)
+![2](https://github.com/Bitter-tea/music/blob/master/img/2.png)
+![3](https://github.com/Bitter-tea/music/blob/master/img/3.png)
 
 # new
 
