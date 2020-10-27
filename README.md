@@ -17,7 +17,7 @@
 > HTML5+CSS3+javaScript+vue2+store+iView
 
 # 效果演示
-
+[点击演示](https://bitter-tea.github.io/)
 ![1](https://github.com/Bitter-tea/music/blob/master/img/1.png)
 ![2](https://github.com/Bitter-tea/music/blob/master/img/2.png)
 ![3](https://github.com/Bitter-tea/music/blob/master/img/3.png)
